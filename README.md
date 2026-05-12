@@ -14,6 +14,12 @@ This project implements a blood cell detection system using YOLO26s, a cutting-e
 - Video recording capability for detection results
 - Multiple model variants for different accuracy/speed tradeoffs
 
+## Detection Results:
+
+
+<img width="416" height="416" alt="image" src="https://github.com/user-attachments/assets/de5cf65f-e363-4ad1-91da-d73eb1b8cc9d" />
+<img width="416" height="416" alt="image" src="https://github.com/user-attachments/assets/2339f771-20f4-4845-b0a3-96cdffa81de9" />
+
 ## 🚀 Getting Started
 
 ### Prerequisites
